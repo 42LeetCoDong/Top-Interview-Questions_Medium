@@ -2,10 +2,9 @@ Write a program to find the node at which the intersection of two singly linked 
 
 For example, the following two linked lists:
 
+ ![](https://assets.leetcode.com/uploads/2018/12/13/160_statement.png)
 
 begin to intersect at node c1.
-
- ![](https://assets.leetcode.com/uploads/2018/12/13/160_statement.png)
 
 **Example 1:**
 
