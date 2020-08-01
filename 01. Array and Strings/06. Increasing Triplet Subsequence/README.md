@@ -2,8 +2,8 @@ Given an unsorted array return whether an increasing subsequence of length 3 exi
 
 Formally the function should:
 
-  Return true if there exists _i, j, k_
-  such that _arr[i] < arr[j] < arr[k]_ given _0 ≤ i < j < k ≤ n-1_ else return false.
+>Return true if there exists _i, j, k_
+>such that _arr[i] < arr[j] < arr[k]_ given _0 ≤ i < j < k ≤ n-1_ else return false.
 
 **Note:** Your algorithm should run in O(n) time complexity and O(1) space complexity.
 
