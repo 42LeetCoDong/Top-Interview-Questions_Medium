@@ -1,12 +1,16 @@
-function lengthOfLongestSubstring(s: string): number {
+function lengthOfLongestSubstring(s) {
   let maxCnt: number = 0;
+  let subElement: string[] = [];
   for (let i = 0; i < s.length; i++) {
-    let subElement: string[] = [s[i]];
-    for (let j = i + 1; j < s.length; j++) {
-      if (subElement.includes(s[j])) break;
-      else subElement.push(s[j]);
-    }
-    maxCnt = (maxCnt < subElement.length) ? subElement.length : maxCnt;
+      let j: number = subElement.indexOf(s[i]);
+      if (j === -1)
+          subElement.push(s[i]);
+      else {
+          maxCnt = maxCnt < subElement.length ? subElement.length : maxCnt;
+          i -= (subElement.length - j);
+          subElement = [];
+      }
   }
+  maxCnt = maxCnt < subElement.length ? subElement.length : maxCnt;
   return (maxCnt);
-};
+}
