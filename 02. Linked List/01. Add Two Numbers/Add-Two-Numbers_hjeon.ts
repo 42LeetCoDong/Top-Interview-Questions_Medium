@@ -4,20 +4,20 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
 	let nextL3: ListNode | null = l3;
 
 	while (l1 || l2 || isRounding) {
-        if (isRounding && nextL3) {
+        	if (isRounding && nextL3) {
 			nextL3.val++;
 			isRounding = false;
 		}
-        if (l1 && l2 && nextL3)
-            nextL3.val += l1.val + l2.val;	
-        else if (l1 && nextL3)
-            nextL3.val += l1.val;	
-        else if (l2 && nextL3)
-            nextL3.val += l2.val;	
-        if (nextL3 && 9 < nextL3.val) {
-            nextL3.val -= 10;
-            isRounding = true;
-        }
+		if (l1 && l2 && nextL3)
+		    nextL3.val += l1.val + l2.val;	
+		else if (l1 && nextL3)
+		    nextL3.val += l1.val;	
+		else if (l2 && nextL3)
+		    nextL3.val += l2.val;	
+		if (nextL3 && 9 < nextL3.val) {
+		    nextL3.val -= 10;
+		    isRounding = true;
+		}
 		
 		if (l1) l1 = l1.next;
 		if (l2)	l2 = l2.next;
