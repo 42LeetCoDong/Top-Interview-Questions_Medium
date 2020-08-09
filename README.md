@@ -21,10 +21,26 @@
 - [Increasing Triplet Subsequence](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/)
 ---
 ### Linked List
-#### ---
+#### 08 / 09
 - [Add Two Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/783/)
-#### ---
+#### 08 / 10
 - [Odd Even Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)
-#### ---
+#### 08 / 11
 - [Intersection of Two Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
+---
+### Trees and Graphs
+#### 08 / 12
+- [Binary Tree Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/786/)
+#### 08 / 13
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/)
+#### 08 / 14
+- [Intersection of Two Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)
+#### 08 / 15
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/788/)
+#### 08 / 16
+- [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/)
+#### 08 / 17
+- [Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)
+#### 08 / 18
+- [Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)
 ---
