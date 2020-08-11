@@ -5,6 +5,20 @@
 - [***yujo***(YUJO42)](https://github.com/YUJO42)
 - [***seongwpa***(seongwpa)](https://github.com/seongwpa)
 - [***junkang***(junkang)](https://github.com/nawaraing)
+## 코드 리뷰 규칙
+1. 전날 푼 문제의 코드를 매일 리뷰한다.
+
+2. 리뷰는 1대1 온라인, 오프라인을 가리지 않음을 원칙으로 한다.
+
+3. 42Seoul의 **Honor Code** 정신을 준수하며 리뷰시 서로를 존중한다.
+
+4. 코드 리뷰는 아래의 표에 따라 매일 상대를 바꾸며 진행한다.
+
+   | 번호 |                이름                 |
+   | :--: | :---------------------------------: |
+   |  1   | hjeon - yujo. /. seongwpa - junkang |
+   |  2   |   hjeon-seongwpa / yujo - junkang   |
+   |  3   |    Hjeon-junkang / yujo-seongwpa    |
 ## 목차 및 일자별 문제
 ### Array and Strings
 #### 08 / 03
