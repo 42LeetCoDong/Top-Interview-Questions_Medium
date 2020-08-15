@@ -55,10 +55,10 @@
 - [Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)
 #### 08 / 17
 - [Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)
-#### 08 / 18
-- [Letter Combinations of a Phone Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/)
 ---
 ### Backtracking
+#### 08 / 18
+- [Letter Combinations of a Phone Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/)
 #### 08 / 19
 - [Generate Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/)
 #### 08 / 20
@@ -67,5 +67,4 @@
 - [Subsets](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/)
 #### 08 / 22
 - [Word Search](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/)
-
 ---
