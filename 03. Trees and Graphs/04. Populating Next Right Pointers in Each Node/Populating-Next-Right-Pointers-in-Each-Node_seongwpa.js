@@ -11,6 +11,9 @@ var connect = function(root) {
                                 // =>  1 2 -> 4 5
     else
         root.right.next = null;         //아닌경우 null 넣자. 그게 가장 오른쪽거다.
+                                //      0 --?> null?
+                                //     1 2 -> null
+
     connect(root.left);                 //왼쪽부터 재귀루프
     connect(root.right);                //오른쪽도 해야지.
     return root;                        //재귀루프 끝난 root를 반환.
