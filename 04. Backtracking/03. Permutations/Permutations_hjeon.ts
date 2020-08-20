@@ -5,9 +5,9 @@ function permute(nums: number[]): number[][] {
         res.push(el);
         return ;
     }
-    for (let i = 0; i < nArr.length; i++)
-        if (!el.includes(nArr[i]))
-            recursive(nArr, [...el, nArr[i]]);
+    for (let n of nArr)
+        if (!el.includes(n))
+            recursive(nArr, [...el, n]);
   };
   recursive(nums, []);
   return (res);
