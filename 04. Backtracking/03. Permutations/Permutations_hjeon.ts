@@ -12,6 +12,3 @@ function permute(nums: number[]): number[][] {
   recursive(nums, []);
   return (res);
 };
-
-
-console.log(permute([1,2,3]))
