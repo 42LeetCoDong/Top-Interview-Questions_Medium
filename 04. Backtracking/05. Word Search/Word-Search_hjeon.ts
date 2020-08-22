@@ -6,13 +6,12 @@ function exist(board: string[][], word: string): boolean {
         gotWord = true;
         return ;
       }
-      let temp = board[y][x];
       board[y][x] = '';
       if (0 < y) hasWord( x, y - 1, idx + 1);
       if (0 < x) hasWord( x - 1, y, idx + 1);
       if (y + 1 < board.length) hasWord( x, y + 1, idx + 1);
       if (x + 1 < board[y].length) hasWord( x + 1, y, idx + 1);
-      board[y][x] = temp;
+      board[y][x] = word[idx];
     }
   }
 
