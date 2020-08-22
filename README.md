@@ -14,11 +14,16 @@
 
 4. 코드 리뷰는 아래의 표에 따라 매일 상대를 바꾸며 진행한다.
 
-   | 번호 |                이름                 |
-   | :--: | :---------------------------------: |
-   |  1   | hjeon - yujo. /. seongwpa - junkang |
-   |  2   |   hjeon-seongwpa / yujo - junkang   |
-   |  3   |    Hjeon-junkang / yujo-seongwpa    |
+|  번호  |       1        |         2          |
+| :----: | :------------: | :----------------: |
+| **월** |  hjeon - yujo  | seongwpa - junkang |
+| **화** | hjeon-seongwpa |   yujo - junkang   |
+| **수** | hjeon-junkang  |   yujo-seongwpa    |
+| **목** |  hjeon - yujo  | seongwpa - junkang |
+| **금** | hjeon-seongwpa |   yujo - junkang   |
+| **토** | hjeon-junkang  |   yujo-seongwpa    |
+
+
 ## 목차 및 일자별 문제
 ### Array and Strings
 #### 08 / 03
