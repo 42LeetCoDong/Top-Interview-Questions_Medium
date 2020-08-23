@@ -8,16 +8,12 @@ function sortColors(nums: number[]): void {
 
   for (let one = 0; one <= two; one++) {
     while (nums[one] === 2 && one < two) {
-      let temp = nums[one];
-      nums[one] = nums[two];
-      nums[two] = temp;
+      [nums[one], nums[two]] = [nums[two], nums[one]]
       two--;
     }
 
     while (nums[one] === 0 && one > zero) {
-      let temp = nums[one];
-      nums[one] = nums[zero];
-      nums[zero] = temp;
+      [nums[one], nums[zero]] = [nums[zero], nums[one]]
       zero++;
     }
   }
