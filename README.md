@@ -101,3 +101,35 @@
 #### 09 / 03
 - [Longest Increasing Subsequence](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/)
 ---
+### Design
+#### 09 / 04
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/812/)
+#### 09 / 05
+- [Insert Delete GetRandom O(1)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/112/design/813/)
+---
+### Math
+#### 09 / 06
+- [Happy Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/815/)
+#### 09 / 07
+- [Factorial Trailing Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/816/)
+#### 09 / 08
+- [Excel Sheet Column Number](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/817/)
+#### 09 / 09
+- [Pow(x, n)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/)
+#### 09 / 10
+- [Sqrt(x)](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/819/)
+#### 09 / 11
+- [Divide Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/820/)
+#### 09 / 12
+- [Fraction to Recurring Decimal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/821/)
+---
+### Others
+#### 09 / 13
+- [Sum of Two Integers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/822/)
+#### 09 / 14
+- [Evaluate Reverse Polish Notation](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/823/)
+#### 09 / 15
+- [Majority Element](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
+#### 09 / 16
+- [Task Scheduler](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/826/)
+---
